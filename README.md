@@ -1,4 +1,4 @@
-### List of AT commands for LG Android-powered devices###
+### List of AT commands for LG Android-powered devices ###
 
 ### Proceed with caution, also there is a few notice for you before doing this! ###
  + These commands can be sent using any tool that supports sending AT commands e.g putty, etc...)
