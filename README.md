@@ -11,8 +11,6 @@
 ```bash
 your command goes here
 ```
-```
-```
 
 ### How to connect to the Modem Port ###
 + Download [PuTTY](https://www.putty.org/)
